@@ -3,10 +3,10 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-import DataUploader from "./DataUploader";
+import FileInputReader from "./FileInputReader";
 
 function App() {
-  return <DataUploader />;
+  return <FileInputReader  />;
 }
 
 const rootElement = document.getElementById("root");
