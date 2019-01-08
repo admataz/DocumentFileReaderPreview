@@ -1,2 +1,0 @@
-# DocumentFileReaderPreview
-Created with CodeSandbox
